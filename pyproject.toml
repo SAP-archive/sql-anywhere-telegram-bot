@@ -1,0 +1,10 @@
+[tool.black]
+exclude = '''
+/(
+    \.git
+  | \.mypy_cache
+  | \venv*
+)/
+'''
+line-length = 120
+target-version = ['py38']
