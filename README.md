@@ -1,5 +1,7 @@
 # SAP SQL Anywhere Telegram Bot Sample
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sql-anywhere-telegram-bot)](https://api.reuse.software/info/github.com/SAP-samples/sql-anywhere-telegram-bot)
+
 ## Table of Contents
 
 <details>
