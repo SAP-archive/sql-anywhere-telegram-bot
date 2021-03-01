@@ -9,6 +9,7 @@
 
   - [Description](#description)
     * [Main Features](#main-features)
+    * [Learn More](#learn-more)
   - [Requirements](#requirements)
     * [Modules Used](#modules-used)
   - [Download and Installation](#download-and-installation)
@@ -38,6 +39,13 @@ We also tried to thoroughly document the source code, so feel free to browse it.
 - Detailed and customizable logging system
 - Scalability and low imprint on hardware
 - Easily repurposable for different tasks involving QR-codes.
+
+### Learn More
+
+This project is featured and meticulously explained in several articles:
+
+- (:us:) On [Blogs.SAP.com](https://blogs.sap.com): [Chat-bots with SAP SQL Anywhere](https://blogs.sap.com/?p=1212261),
+- (:ru:) On [Habr.com](https://habr.com/): [Как автоматизировать оповещения о статусе заказов через Telegram-бота, Computer Vision и SQL Anywhere](https://habr.com/ru/company/sap/blog/539262/).
 
 ## Requirements
 
